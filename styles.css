@@ -1,0 +1,25 @@
+h3 {
+  margin: 0 auto 15px auto;
+  text-align: center;
+}
+
+.image-gallery {
+  width: 700px;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  margin: auto;
+}
+
+.image-gallery img {
+  width: 300px;
+  height: 400px;
+  box-shadow: 5px 5px lightgrey;
+}
+
+.arrow-container {
+  text-align: center;
+  border: 2px black solid;
+  border-radius: 5px;
+  width: 20px;
+}
